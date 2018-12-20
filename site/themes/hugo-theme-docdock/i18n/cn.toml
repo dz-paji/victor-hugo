@@ -1,0 +1,44 @@
+[create-header-md]
+other = "创建 content/_header.md 文件以个人化顶部文字"
+
+[create-footer-md]
+other = "创建 content/_footer.md 文件以个人性底栏文字"
+
+[Search-placeholder]
+other = "搜索..."
+
+[Clear-History]
+other = "返回之前"
+
+[Page]
+other = "页面"
+
+[Next-Pages]
+other = "下一页"
+
+[Previous-Pages]
+other = "上一页"
+
+[pagination-on]
+other = "在"
+
+[Attachments-label]
+other = "附件"
+
+[title-404]
+other = "错误"
+
+[message-404]
+other = "哎呀，看起来这个页面不存在呢"
+
+[Go-to-homepage]
+other = "返回主页"
+
+[Edit-this-page]
+other = "改善这个页面"
+
+[Expand-title]
+other = "把我扩大.."
+
+[last-update-on]
+other = "最后更新于"
